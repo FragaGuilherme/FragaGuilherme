@@ -1,6 +1,6 @@
 ## ⚡ Sobre mim:
 
-Finalizei um curso Tecnico em Tecnologia da Informação que aprendi Java, Php, Node e alguns módulos.
+Finalizei um curso Tecnico em Tecnologia da Informação que aprendi Java, Php, Delphi, Node e alguns módulos.
 Estou começando uma faculdade de Engenharia de Software onde estou aprendendo atualmente python
 
 ## 💻 Tech Stack:
